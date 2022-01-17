@@ -23,7 +23,7 @@ Three levels of difficulty were deveoped for this game.
   
   For more information: https://google.github.io/mediapipe/solutions/hands.html
   
-  Three Gestures:
+  Three gestures were implemented for this game:
   1. Peace Sign - Move discc to the left.
   
      <img width="391" alt="Screen Shot 2022-01-17 at 5 26 35 PM" src="https://user-images.githubusercontent.com/93673736/149843775-6945f400-c02c-4c5f-8e87-4fe208b4dadb.png">
